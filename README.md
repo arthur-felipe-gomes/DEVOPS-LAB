@@ -1,4 +1,4 @@
-![CI](https://github.com/arthur-felipe-gomes/DEVOPS-LAB/actions/workflows/ci.yml/badge.svg
+![CI](https://github.com/arthur-felipe-gomes/DEVOPS-LAB/actions/workflows/ci.yml/badge.svg)
 # DEVOPS-LAB
 
 Este projeto faz parte da minha jornada de aprendizado em DevOps.
