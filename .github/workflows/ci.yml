@@ -1,0 +1,14 @@
+name: CI Simples
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v3
+
+      - name: Executar comando
+        run: echo "Pipeline funcionando com sucesso 🚀"
