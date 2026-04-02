@@ -7,7 +7,7 @@ Este projeto faz parte da minha jornada de aprendizado em DevOps.
 - CI/CD
 
 ## ⚙️ Pipeline
-Esse repositorio possui um pipeline automatizado que executa a cada push, validando o funcionamento do ambiente.
+Esse repositorio possui um pipeline automatizado que executa cada push, validando o funcionamento do ambiente.
 
 ## 🎯 Objetivo
 Migrar da area de suporte tecnico para DevOps.
