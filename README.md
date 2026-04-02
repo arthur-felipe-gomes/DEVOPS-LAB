@@ -15,9 +15,9 @@ Migrar da area de suporte tecnico para DevOps.
 
 ## ESTRUTURA DO PROJETO
 DEVOPS-LAB/
-├──  README.md
-├──  scripts/
-│    └── check_project.sh
-└──  .github/
-     └──workflows/
-        └── ci.yml
+    ├──  README.md
+    ├──  scripts/
+    │    └── check_project.sh
+    └──  .github/
+         └──workflows/
+            └── ci.yml
