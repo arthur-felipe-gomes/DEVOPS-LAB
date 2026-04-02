@@ -14,6 +14,7 @@ Esse repositorio possui um pipeline automatizado que executa cada push, validand
 Migrar da area de suporte tecnico para DevOps.
 
 ## ESTRUTURA DO PROJETO
+<pre>
 DEVOPS-LAB/
     ├──  README.md
     ├──  scripts/
@@ -21,3 +22,4 @@ DEVOPS-LAB/
     └──  .github/
          └──workflows/
             └── ci.yml
+</pre>
